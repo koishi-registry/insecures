@@ -14,6 +14,7 @@
   "koishi-plugin-transformers",
   "koishi-plugin-systools",
   "koishi-plugin-systools-lts",
+  "koishi-plugin-lovemilk-telemetry",
   "koishi-plugin-dispose",
   "koishi-plugin-neverlose"
 ]
