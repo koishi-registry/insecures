@@ -3,5 +3,18 @@
   "koishi-plugin-boom2",
   "koishi-plugin-uuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu",
   "koishi-plugin-dispose-root",
+  "koishi-plugin-material-theme-undefined",
+  "koishi-plugin-k2345-security",
+  "koishi-plugin-koishi-2345",
+  "koishi-plugin-puzzle",
+  "@kuroshio/koishi-plugin-genshin",
+  "koishi-plugin-triple-sos",
+  "koishi-plugin-chatgpt-api",
+  "koishi-plugin-adapter-wechaty",
+  "koishi-plugin-transformers",
+  "koishi-plugin-systools",
+  "koishi-plugin-systools-lts",
+  "koishi-plugin-lovemilk-telemetry",
+  "koishi-plugin-dispose",
   "koishi-plugin-neverlose"
 ]
